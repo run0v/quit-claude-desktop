@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts (app is tracked in dist/, standalone binary is not)
+Sources/kill_claude
