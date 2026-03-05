@@ -37,10 +37,10 @@ quit-claude-desktop/
 
 ## Compatibility
 
-| Architecture | Chips | Support |
-|---|---|---|
-| `arm64` | Apple Silicon (M1 / M2 / M3 / M4) | Native |
-| `x86_64` | Intel (2006–2020) | Native |
+| Architecture | Chips | Support | Download |
+|---|---|---|---|
+| `arm64` | Apple Silicon (M1 / M2 / M3 / M4) | Native | [Quit.Claude.Desktop.zip](https://github.com/run0v/quit-claude-desktop/releases/download/v1.0.0/Quit.Claude.Desktop.zip) |
+| `x86_64` | Intel (2006–2020) | Native | [Quit.Claude.Desktop.zip](https://github.com/run0v/quit-claude-desktop/releases/download/v1.0.0/Quit.Claude.Desktop.zip) |
 
 The app is compiled as a **Universal Binary** via `lipo`. No Rosetta 2 required.
 
